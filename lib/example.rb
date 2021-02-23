@@ -1,13 +1,16 @@
 # Use this space to code along with the readme
+def say_hello_world_ten_times # method
+phrase = "Hello World!" # string variable 
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+end #end method
 
-phrase = "Hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+say_hello_world_ten_times # call method to print hello world 10 times
